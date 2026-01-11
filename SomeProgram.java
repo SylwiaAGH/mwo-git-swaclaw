@@ -5,7 +5,14 @@ public class SomeProgram {
     }
 
     public void manageRockets() {
+    // TODO implement
+    }
+}
+
+
+    public void manageRockets() {
       // TODO implement
     }
 
 }
+
